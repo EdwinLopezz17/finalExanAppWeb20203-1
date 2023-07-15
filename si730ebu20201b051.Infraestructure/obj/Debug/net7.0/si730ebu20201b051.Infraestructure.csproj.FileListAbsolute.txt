@@ -1,0 +1,14 @@
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\bin\Debug\net7.0\si730ebu20201b051.Infraestructure.deps.json
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\bin\Debug\net7.0\si730ebu20201b051.Infraestructure.runtimeconfig.json
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\bin\Debug\net7.0\si730ebu20201b051.Infraestructure.dll
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\bin\Debug\net7.0\si730ebu20201b051.Infraestructure.pdb
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\si730ebu20201b051.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\si730ebu20201b051.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\si730ebu20201b051.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\si730ebu20201b051.Infraestructure.AssemblyInfo.cs
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\si730ebu20201b051.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\si730ebu20201b051.Infraestructure.dll
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\refint\si730ebu20201b051.Infraestructure.dll
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\si730ebu20201b051.Infraestructure.pdb
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\si730ebu20201b051.Infraestructure.genruntimeconfig.cache
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Infraestructure\obj\Debug\net7.0\ref\si730ebu20201b051.Infraestructure.dll

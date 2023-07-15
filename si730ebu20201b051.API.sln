@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "si730ebu20201b051.API", "si730ebu20201b051.API\si730ebu20201b051.API.csproj", "{D6C8BFC1-749B-4325-9921-46E2B2F9F97C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "si730ebu20201b051.Domain", "si730ebu20201b051.Domain\si730ebu20201b051.Domain.csproj", "{E3FFA8BB-0D2E-4E0E-93E3-0F311A66C1E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "si730ebu20201b051.Infraestructure", "si730ebu20201b051.Infraestructure\si730ebu20201b051.Infraestructure.csproj", "{26838BC4-F2E3-49C7-BB3F-CB4DD4E00D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6C8BFC1-749B-4325-9921-46E2B2F9F97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C8BFC1-749B-4325-9921-46E2B2F9F97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C8BFC1-749B-4325-9921-46E2B2F9F97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C8BFC1-749B-4325-9921-46E2B2F9F97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FFA8BB-0D2E-4E0E-93E3-0F311A66C1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FFA8BB-0D2E-4E0E-93E3-0F311A66C1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FFA8BB-0D2E-4E0E-93E3-0F311A66C1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FFA8BB-0D2E-4E0E-93E3-0F311A66C1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26838BC4-F2E3-49C7-BB3F-CB4DD4E00D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26838BC4-F2E3-49C7-BB3F-CB4DD4E00D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26838BC4-F2E3-49C7-BB3F-CB4DD4E00D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26838BC4-F2E3-49C7-BB3F-CB4DD4E00D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\bin\Debug\net7.0\si730ebu20201b051.Domain.deps.json
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\bin\Debug\net7.0\si730ebu20201b051.Domain.dll
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\bin\Debug\net7.0\si730ebu20201b051.Domain.pdb
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\bin\Debug\net7.0\si730ebu20201b051.Infraestructure.dll
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\bin\Debug\net7.0\si730ebu20201b051.Infraestructure.pdb
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\si730ebu20201b051.Domain.csproj.AssemblyReference.cache
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\si730ebu20201b051.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\si730ebu20201b051.Domain.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\si730ebu20201b051.Domain.AssemblyInfo.cs
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\si730ebu20201b051.Domain.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\si730ebu20201b051.Domain.csproj.CopyComplete
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\si730ebu20201b051.Domain.dll
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\refint\si730ebu20201b051.Domain.dll
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\si730ebu20201b051.Domain.pdb
+C:\Users\edwin\Desktop\Reserved\si730ebu20201b051.API\si730ebu20201b051.Domain\obj\Debug\net7.0\ref\si730ebu20201b051.Domain.dll
